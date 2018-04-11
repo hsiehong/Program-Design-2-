@@ -1,0 +1,30 @@
+180410 221042.701|CONFIG|main|setFileHandlers|Now logging to D:\орн▒\ITSA_Login3\ITSA_Login3\bin\logs directory.
+180410 221042.702|INFO|main|info|
+180410 221042.706|INFO|main|info|Version 9.5.3 20180207 (Wednesday, February 7th 2018 04:25 UTC) Java ver 1.8.0_45 build 4653 Windows NT (unknown) 10.0 (amd64) 
+180410 221042.707|INFO|main|startLog|Working directory is D:\орн▒\ITSA_Login3\ITSA_Login3\bin
+180410 221042.748|INFO|main|startLog|Process id is 16900@LAPTOP-F0C4MNFQ
+180410 221042.748|INFO|main|start|Starting ConnectionManager...
+180410 221042.937|INFO|main|start|Started ConnectionManager
+180410 221042.939|INFO|main|setClientServerAndPort|INIFile File location: file:/D:/орн▒/ITSA_Login3/ITSA_Login3/bin/pc2v9.ini
+180410 221042.940|INFO|main|setClientServerAndPort|setClientServerAndPort 140.116.82.72 parsed as 140.116.82.72 port 50002
+180410 221042.940|INFO|main|info|Contacting server at 140.116.82.72:50002
+180410 221042.940|INFO|main|connectToMyServer|Connecting to 140.116.82.72:50002
+180410 221043.054|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=/140.116.82.72,port=50002,localport=14289]--4265860819180258437)
+180410 221043.138|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted Made a secret key for Socket[addr=/140.116.82.72,port=50002,localport=14289]--4265860819180258437 key is com.sun.crypto.provider.DESKey@fffe7bce
+180410 221043.139|INFO|Thread-1|getPublicKeyPacket|Generating Unencrypted Public Key Packet
+180410 221043.139|INFO|Thread-1|getPublicKeyPacket|checking key:= SunJCE Diffie-Hellman Public Key:
+y:
+    3ea003cd 6e29b3d6 0fd16a63 3f350648 087c82b5 fa1a49d3 04b2452d ae52779e
+    8122fc32 f62a6d50 3d75e842 ef1798e3 ff089bf2 7d0907df 85dce850 1eeee286
+    ead18854 46e362ff 801764dd 17695472 69fd72b7 943c9a52 d7964b9e 7d2f468f
+    0ca1a9a6 3bca925d 6e7e185d 5cbcad23 de0775de d2de1446 1f163c52 afe50616
+p:
+    f488fd58 4e49dbcd 20b49de4 9107366b 336c380d 451d0f7c 88b31c7c 5b2d8ef6
+    f3c923c0 43f0a55b 188d8ebb 558cb85d 38d334fd 7c175743 a31d186c de33212c
+    b52aff3c e1b12940 18118d7c 84a70a72 d686c403 19c80729 7aca950c d9969fab
+    d00a509b 0246d308 3d66a45d 419f9c7c bd894b22 1926baab a25ec355 e92f78c7
+g:
+    02
+l:
+    512
+180410 221043.140|INFO|Thread-1|getPublicKeyPacket|packet:= edu.csus.ecs.pc2.core.transport.TransportWrapper@b4f10ae
