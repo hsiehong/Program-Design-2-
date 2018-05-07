@@ -1,0 +1,84 @@
+24
+name=﻿“Peter Wang# , age=35 , sex:female
+====================================================================================
+queue/stack full, allocate double size 48
+====================================================================================
+name=“JOHNNY LI” , age=15 , sex:male
+====================================================================================
+queue/stack full, allocate double size 96
+====================================================================================
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+====================================================================================
+queue/stack full, allocate double size 192
+====================================================================================
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+====================================================================================
+queue/stack full, allocate double size 384
+====================================================================================
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+====================================================================================
+queue/stack full, allocate double size 768
+====================================================================================
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+====================================================================================
+queue/stack full, allocate double size 1536
+====================================================================================
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+name=“JOHNNY LI” , age=15 , sex:male
+name=“JERRY ZHOU” , age=25 , sex:male
+name=“Peter Wang”# , age=35 , sex:female
+==============================================================
