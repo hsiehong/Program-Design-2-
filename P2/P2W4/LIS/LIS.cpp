@@ -16,7 +16,7 @@ void solve(int tcase){
         //binary search,find the first>=t,range:[left,right]
         left=0,right=last.size()-1;
         while(left<right){
-            mid=(left=right)/2;
+            mid=(left+right)/2;
             if(last[mid]<t)left=mid+1;
             else right=mid;
         }
