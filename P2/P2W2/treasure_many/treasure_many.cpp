@@ -3,10 +3,12 @@
 #include<vector>
 #define N 50000
 #define M 100000
+#include<cstdio>
 
 using namespace std;
 
 int main(void){
+    freopen("t_large.in","r",stdin);
     int n,m,t,start[N],c[N],u,v,k,mymax;
     bool flag[N];
     while(1){
