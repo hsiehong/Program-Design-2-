@@ -28,7 +28,7 @@ int bfs(int i,int wei[],bool vis[]){
 }
 
 int main(void){
-    freopen("graph_maxComponent.in","r",stdin);
+    //freopen("graph_maxComponent.in","r",stdin);
     int ncase,n,m,u,v,ans,t;
     int weight[N];
     bool visit[N];
